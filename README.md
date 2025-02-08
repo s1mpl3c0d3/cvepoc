@@ -3,9 +3,6 @@
 ### PoC CVE-2023-3824
 https://codeberg.org/bluef1sher/poc-cve-2023-3824
 
-### PoC CVE-2023-3824
-https://codeberg.org/bluef1sher/poc-cve-2023-3824
-
 ### PoC CVE-2019-11248
 https://codeberg.org/bluef1sher/poc-cve-2019-11248
 
